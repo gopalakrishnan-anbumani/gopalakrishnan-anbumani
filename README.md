@@ -17,9 +17,14 @@
 </p>
 
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gopalakrishnan-anbumani&show_icons=true&theme=dark" width="350"></a>
-</p>
+<div class="row" align='center'>
+  <div class="column">
+    <a href="https://leetcode.com/gopalkrish45/"><img src="https://leetcode-stats-six.vercel.app/?username=gopalkrish45&theme=dark" width="350"></a>
+  </div>
+  <div class="column">
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gopalakrishnan-anbumani&show_icons=true&theme=dark" width="350"></a>
+  </div>
+</div>
 
 
 <p align='center'>
